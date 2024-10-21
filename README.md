@@ -18,3 +18,10 @@ The Task List application allows users to manage tasks efficiently by adding, vi
 
 ## Screenshots
 If you would like to view screenshots of the project in action, please check the screenshots folder in this repository.
+
+## How to Run
+- **Warm-Up**: Do dynamic stretches and light jogging to prepare your body.
+- **Starting Position**: Get into a strong stance with your feet behind the start line, hands flat, and body leaning forward.
+- **Strong Start**: Explode from the blocks or your stance with short, powerful strides.
+- **Max Speed**: Gradually stand upright, lengthen your stride, and maintain rhythm as you reach top speed.
+- **Finish Strong**: Keep your form, focus on the finish line, and use a final burst of energy to cross the line.
