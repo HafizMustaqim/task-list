@@ -16,5 +16,5 @@ The Task List application allows users to manage tasks efficiently by adding, vi
 - **Update tasks**: Edit task details to reflect changes.
 - **Delete tasks**: Remove tasks that are no longer needed.
 
-##Screenshots
+## Screenshots
 If you would like to view screenshots of the project in action, please check the screenshots folder in this repository.
