@@ -6,6 +6,7 @@ This project is a simple Task List application with fully functional CRUD (Creat
 - **Laravel** for the backend framework
 - **Alpine.js** for frontend interactivity
 - **MySQL** for database storage
+- **Tailwind CSS** for styling
 - **Laragon** for local development environment setup
 
 The Task List application allows users to manage tasks efficiently by adding, viewing, editing, and deleting tasks.
@@ -17,7 +18,7 @@ The Task List application allows users to manage tasks efficiently by adding, vi
 - **Delete tasks**: Remove tasks that are no longer needed.
 
 ## Screenshots
-If you would like to view screenshots of the project in action, please check the screenshots folder in this repository.
+If you would like to view screenshots of the project in action, please check the **Screenshots** folder in this repository.
 
 ## How to Run
 - **Warm-Up**: Do dynamic stretches and light jogging to prepare your body.
